@@ -12,4 +12,4 @@
 Если вы устанавливаете мод, поместите jar-файл мода в папку `.minecraft/mods`
 
 <div id="sponsored">  <a href="https://play2go.cloud/?ref_id=axxR5TvWdII">
-    <img src="https://i.ibb.co/j5Xhxzk/Play2Go.png" alt="Спонсировано лучшим хостингом Play2Go!"/> 
+    <img src="https://i.ibb.co/mGyKd6n/Play2go.png" alt="Supported by the best hosting Play2Go!"/>
