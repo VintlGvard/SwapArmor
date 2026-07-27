@@ -4,9 +4,9 @@
         "frame": "challenge",
         "description": "",
         "icon": {
-            "item": "minecraft:knowledge_book"
+            "id": "minecraft:knowledge_book"
         },
-        "background": "minecraft:textures/block/gray_concrete.png",
+        "background": "minecraft:block/gray_concrete",
         "show_toast": false,
         "announce_to_chat": false
     },

@@ -1,6 +1,12 @@
 {
     "pack": {
-        "pack_format":4,
+        "pack_format": 48,
+        "supported_formats": {
+            "min_inclusive": 48,
+            "max_inclusive": 999
+        },
+        "min_format": 48,
+        "max_format": [999, 999],
         "description": [
             {
                 "text": "VintlGvard",
@@ -14,6 +20,17 @@
                 "text": "SwapArmor",
                 "color": "white",
                 "bold": false
+            }
+        ]
+    },
+    "overlays": {
+        "entries": [
+            {
+                "formats": {
+                    "min_inclusive": 48,
+                    "max_inclusive": 63
+                },
+                "directory": "overlay_48_63"
             }
         ]
     }
